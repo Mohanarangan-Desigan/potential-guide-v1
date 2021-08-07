@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #11b2d6, #0d21d4);
+}
+
+.navbar-brand img {
+    margin-left: 20px;
+}
+
+.nav-item {
+    text-align: right;
+}
+
+.dropdown-item {
+    text-align: right;
+}
